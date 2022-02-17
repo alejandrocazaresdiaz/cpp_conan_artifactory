@@ -1,0 +1,5 @@
+[requires]
+producerLib/1.07@conan/betaTest
+
+[generators]
+cmake

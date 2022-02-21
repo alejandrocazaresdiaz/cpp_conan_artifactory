@@ -1,0 +1,10 @@
+{
+  "Dextra": {
+    "demoJson": {
+      "title": "POC Conan - Hello World",
+      "name": "main_window",
+      "width": 500,
+      "height": 500
+    }
+  }
+}

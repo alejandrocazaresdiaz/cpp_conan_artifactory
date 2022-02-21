@@ -1,0 +1,6 @@
+[requires]
+nlohmann_json/3.9.1
+cunit/2.1-3
+
+[generators]
+cmake

@@ -75,3 +75,6 @@ cmake .
 cmake --build .	
 #run demo
 ```
+
+
+Folder "unitTest" contyains a demo cunit test
